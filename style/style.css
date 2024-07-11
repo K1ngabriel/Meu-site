@@ -3,7 +3,7 @@
 :root{
     --cor-primaria: #000000;
     --cor-secundaria: #f6f6f6;
-    --cor-terciaria: #22d4fd;
+    --cor-terciaria: #22d422;
 }
 
 * {
@@ -111,7 +111,6 @@ body{ /*corpo*/
 }
 
 .imagem1{
-  
     height: 38.125rem;
 }
 
