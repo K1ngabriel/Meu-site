@@ -82,6 +82,11 @@ body{ /*corpo*/
     font-size: 1.5rem;
 }
 
+.itt {
+    color: #22d4fd;
+    text-decoration: underline;
+}
+
 .botoes {
     display: flex;
     justify-content: space-between;
